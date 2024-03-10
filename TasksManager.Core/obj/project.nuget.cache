@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hNdWV7SvSc3nHFlcPmp1lGwR+9pUsyzKy53NtnJd7IeNaMPX9TQD583c/vwshySguRPssSTg/1YybnfJy2MCkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shmak\\RiderProjects\\TaskManager\\TasksManager.Core\\TasksManager.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shmak\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\shmak\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\shmak\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\shmak\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
