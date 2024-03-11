@@ -2,12 +2,12 @@
 
 public class Result
 {
-    private readonly bool _success;
-    private readonly IEnumerable<string> _errors;
+    public readonly bool Succes;
+    public readonly IEnumerable<string> Errors;
 
     public Result(bool success, IEnumerable<string> errors)
     {
-        _success = success;
-        _errors = errors;
+        Succes = success;
+        Errors = errors;
     }
 }

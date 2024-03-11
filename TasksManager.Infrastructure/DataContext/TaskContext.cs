@@ -16,6 +16,6 @@ public class TaskContext : DbContext
             .IsUnique(true);
     }
 
-    public DbSet<Task> Users { get; set; }
+    public DbSet<Task> Tasks { get; set; }
     
 }
