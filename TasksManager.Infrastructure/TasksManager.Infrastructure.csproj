@@ -7,10 +7,14 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.2" />
       <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0-preview.1.24081.2" />
+      <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.4.0" />
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\TasksManager.Application\TasksManager.Application.csproj" />
       <ProjectReference Include="..\TasksManager.Domain\TasksManager.Domain.csproj" />
     </ItemGroup>
 

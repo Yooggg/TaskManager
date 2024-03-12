@@ -1,7 +1,6 @@
 ﻿using TasksManager.Core.Command;
-using TasksManager.Core.Entity;
 
-namespace TasksManager.Domain.Commands;
+namespace TasksManager.Domain.Commands.Base;
 
 public class TaskCommandBase :  CommandBase
 {

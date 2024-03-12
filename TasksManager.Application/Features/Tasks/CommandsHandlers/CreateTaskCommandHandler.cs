@@ -2,6 +2,7 @@
 using MediatR;
 using TasksManager.Core.Command;
 using TasksManager.Domain.Commands;
+using TasksManager.Domain.Commands.Tasks;
 using TasksManager.Domain.Repository;
 
 namespace TasksManager.Application.Features.Tasks.Commands;
